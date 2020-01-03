@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1501111175 source:d:\robot\code\arduino\test\main.cpp
+	<iostream>
+	<Arduino.h>
+	<reg.h>
+	<smart_like_servo.h>
+	<math.h>
+
+1501101064 source:d:\robot\code\arduino\test\arduino.cpp
+	<Arduino.h>
+
+1490897910 source:d:\robot\code\arduino\libraries\reg\reg.cpp
+	"reg.h"
+	"Arduino.h"
+
+1490815940 d:\robot\code\arduino\libraries\reg\reg.h
+	"Arduino.h"
+
+1501161921 source:d:\robot\code\arduino\test\reg.cpp
+	"reg.h"
+	"Arduino.h"
+
+1501161921 d:\robot\code\arduino\test\reg.h
+	"Arduino.h"
+
+1492282418 d:\robot\code\arduino\test\arduino.h
+	<Arduino.h>
+
+1501111430 source:d:\robot\code\arduino\test\smart_like_servo .cpp
+	<smart_like_servo.h>
+	<reg.h>
+	<Arduino.h>
+
+1492282418 source:d:\robot\code\arduino\test_codeblocks\arduino.cpp
+	<Arduino.h>
+
+1492261460 source:d:\robot\code\arduino\test_codeblocks\main.cpp
+	<iostream>
+	<Arduino.h>
+	<reg.h>
+	<smart_like_servo.h>
+	<math.h>
+
+1492259023 source:d:\robot\code\arduino\test_codeblocks\reg.cpp
+	"reg.h"
+	"Arduino.h"
+
+1492259266 d:\robot\code\arduino\test_codeblocks\reg.h
+	"Arduino.h"
+
+1492282418 d:\robot\code\arduino\test_codeblocks\arduino.h
+	<Arduino.h>
+
+1492282441 source:d:\robot\code\arduino\test_codeblocks\smart_like_servo .cpp
+	<smart_like_servo.h>
+	<reg.h>
+	<Arduino.h>
+
